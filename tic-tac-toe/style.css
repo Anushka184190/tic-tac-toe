@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Kanit', sans-serif;
+}
+.section-header{
+    text-align: center;
+    background-color: #8b3eea;
+    color: #fff;
+    padding: 35px 0;
+    margin-bottom: 30px;
+}
+.section-header h1{
+    padding-bottom: 25px;
+    font-size: 40px;
+}
+.section-name div{
+  font-size: 120%;
+  border-radius: 5px;
+  background-color: #ede0fd;
+  box-shadow: 2px 2px 2px #ececec;
+}
+.section-name{
+    text-align: center;
+}
+.row {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
+.player-1{
+    padding: 15px 0;
+}
+.player-2{
+    padding: 15px 0;
+}
+.section-name div h3{
+    text-transform: uppercase;
+    color: #8b3eea;
+    padding: 10px 0;
+}
+.section-name div a{
+    text-decoration: none;
+    color: #8b3eea;
+}
+.section-name div h2{
+    padding-bottom: 10px;
+}
+.section-new-game {
+    margin-top: 20px;
+    text-align: center;
+}
+.btn-full{
+    text-decoration: none;
+    color: #fff;
+    background-color: #8b3eea;
+    padding: 7px 15px;
+    border:1px solid #8831f3;
+}
+.section-won{
+    margin-top: 30px;
+    display: none;
+}
+.div-won{
+    background-color: #170751;
+    color: #fff;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    padding: 15px;
+}
+.div-won h1{
+    padding: 5px 0;
+}
+.grid{
+    width: 30%;
+    margin-left: 43%;
+    margin-top: 15px;
+}
+.section-game{
+    text-align: center;
+    margin: 25px 0;
+    display: none;
+}
+.element{
+    background-color: #ede0fd;
+    color: #fff;
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    margin: 5px;
+}
+.element h1{
+    padding-top: 7px;
+}
+.element:hover{
+    background-color: #8b3eea;
+}
+.btn-border{
+    text-decoration: none;
+    color: #8b3eea;
+    padding: 7px 15px;
+    border: 1px solid #e6e6e6;
+    background-color: #fff;
+    margin-right: 2px;
+}
+.section-edit-1{
+    padding: 10px;
+    text-align: center;
+    display: none;
+}
+.section-edit-2{
+    padding: 10px;
+    text-align: center;
+    display: none;
+}
+.section-edit-1 h4,.section-edit-2 h4{
+    color: rgb(141, 23, 23);
+    padding: 5px;
+}
+.section-edit-1 input,.section-edit-2 input{
+    padding: 5px 2px;
+    border: 1px solid #717171;
+    width: 250px;
+}
+.section-edit-1 .buttons,.section-edit-2 .buttons{
+    margin-top: 20px;
+}
+.full-page{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.3);
+    padding: 20px;
+}
+.disabled{
+cursor: default;
+}

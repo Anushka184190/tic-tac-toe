@@ -1,2 +1,2 @@
 # tic-tac-toe
-Experience the classic game of Tic Tac Toe right on your web browser. Play against a friend or challenge the computer in this timeless battle of strategy and wit.
+Welcome to our interactive Tic Tac Toe web application! Developed using modern web technologies, this project brings the beloved game to life on your screen. Engage in thrilling matches against friends or test your. With a sleek and intuitive user interface, smooth gameplay, and responsive design, our Tic Tac Toe project promises hours of entertainment and strategic fun for all players.
